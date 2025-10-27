@@ -1,0 +1,14 @@
+{
+  "name": "evedex-exp-upper",
+  "version": "0.0.1",
+  "description": "Up game experience for evedex exchange",
+  "scripts": {
+    "start": "node ./app/index.js"
+  },
+  "author": "Bashka",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "@evedex/exchange-bot-sdk": "^1.1.46",
+    "ws": "^8.18.3"
+  }
+}
